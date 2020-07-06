@@ -1,0 +1,30 @@
+i.icon{
+    font-size: 2rem;
+}
+
+h2{
+    margin-top: 5%;
+}
+
+.ui.main{
+    margin-top:5%;
+}
+
+button.red, button.purple{
+    display: inline;
+}
+
+form.line{
+    display: inline;
+}
+
+img.indexImg{
+    margin: 2%;
+    padding: 4%;
+    width:10rem;
+    height:10rem;
+}
+
+img{
+    margin: 3%;
+}
